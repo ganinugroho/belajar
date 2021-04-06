@@ -1,1 +1,1 @@
-# belajar
+# belajar membuat service dengan golang
